@@ -4,6 +4,6 @@ Type=Application
 Categories=Utility;
 Name=MVS
 Path=/opt/MVS/bin
-Exec=/opt/MVS/bin/MVS
+Exec=/opt/MVS/bin/MVS.sh
 Icon=/opt/MVS/MVS.png
 Terminal=false
