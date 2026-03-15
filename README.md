@@ -14,7 +14,7 @@ A desktop shortcut solution for MVS on Ubuntu Linux systems. This package provid
 
 1. 克隆或下载此仓库 (Clone or download this repository):
    ```bash
-   git clone https://github.com/your-username/MVS-Desktop-Shortcut.git
+   git clone https://github.com/hnrobert/MVS-Desktop-Shortcut.git
    cd MVS-Desktop-Shortcut
    ```
 
